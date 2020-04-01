@@ -1,6 +1,55 @@
-.navbar-header {
+.navbar-white {
     background-color: #FFFFFF;
 }
-.btn {
+.navbar-btn {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.navbar {
+    margin-bottom: 0;
+}
+.navbar-btn {
     background-color: #00D7D2;
+}
+
+li img {
+    width: 70%;
+}
+
+.navbar-bottom a {
+    text-decoration: none;
+    color: #031b4e;
+}
+
+.jumbotron {
+    background-color: #1633FF;
+}
+
+.form {
+    padding: 20px 20px;
+    background-color: #FFFFFF;
+}
+
+.jumbotron h1 {
+ font-weight: bold;
+ font-size: 40px;
+ color: #FFFFFF;
+}
+
+.jumbotron p {
+ color: #FFFFFF;
+}
+
+.btn-block {
+    background-color: #1633FF;
+}
+
+.btn-default.active {
+    background-color: #f2f8ff;
+    color: #031b4e;
+}
+
+.col-xs-5 p {
+    color: black;
+    font-size: 14px;
 }
