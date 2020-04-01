@@ -23,6 +23,7 @@ li img {
 
 .jumbotron {
     background-color: #1633FF;
+    margin-bottom: 0;
 }
 
 .form {
@@ -52,4 +53,20 @@ li img {
 .col-xs-5 p {
     color: black;
     font-size: 14px;
+}
+
+.brand {
+    background-color: #F3F5F9;
+}
+
+.padding-top {
+    padding-top: 64px;
+}
+
+.padding-bottom {
+    padding-bottom: 64px;
+}
+
+.col-xs-2 img {
+    width: 70%;
 }
