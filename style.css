@@ -11,23 +11,18 @@
 .navbar-btn {
     background-color: #00D7D2;
 }
-
 li img {
     width: 70%;
 }
-
 .navbar-bottom a {
     text-decoration: none;
     color: #031b4e;
 }
-
 .jumbotron {
     background-image: url("https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg");
     margin-bottom: 0;
 }
-
 .form {
-    margin: 20px 20px;
     padding: 20px 20px;
     background-color: #FFFFFF;
 }
@@ -35,21 +30,23 @@ li img {
     padding: 16px 16px;
 }
 .jumbo-content h1 {
- font-weight: 400;
- font-size: 40px;
- color: #fff;
+    font-weight: 700;
+    font-size: 40px;
+    color: #fff;
 }
-
 .jumbotron p {
-color: #fff;
- font-size: 24px;
- opacity: .8;
+    color: #fff;
+    font-size: 24px;
+    opacity: .8;
+}
+.jumbotron .row {
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .form p {
- color: black;
- font-size: 12px;
+    color: black;
+    font-size: 12px;
 }
-
 .btn-primary p {
     color: #FFFFFF;
     font-size: 16px;
@@ -61,36 +58,35 @@ color: #fff;
 .btn-default {
     display: inline;
 }
-
 .btn-default p {
     font-size: 16px;
     font-weight: 400;
 }
-
 .btn-block {
     background-color: #1633FF;
 }
-
 .col-xs-5 p {
     color: black;
     font-size: 14px;
 }
-
 .brand {
     background-color: #F3F5F9;
 }
-.brand p {
-    color: black;
-}
 
+#trust {
+    color: grey;
+    text-transform: uppercase;
+}
 .padding-top {
     padding-top: 64px;
 }
-
 .padding-bottom {
     padding-bottom: 64px;
 }
 
-.col-xs-2 img {
-    width: 70%;
+.anchor {
+    font-size: 16px;
+    color: #0069ff;
+    text-decoration: none;
+    cursor: pointer;
 }
