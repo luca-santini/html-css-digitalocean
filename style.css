@@ -72,7 +72,6 @@ li img {
 .brand {
     background-color: #F3F5F9;
 }
-
 #trust {
     color: grey;
     text-transform: uppercase;
@@ -83,10 +82,32 @@ li img {
 .padding-bottom {
     padding-bottom: 64px;
 }
-
 .anchor {
     font-size: 16px;
     color: #0069ff;
     text-decoration: none;
     cursor: pointer;
+}
+/* deploy and scale */
+#deploy-and-scale {
+ background-color: white;
+}
+.col-xs-12 h2 {
+    font-size: 36px;
+    font-weight: 400;
+}
+.col-xs-12 p {
+    color: grey;
+    font-size: 20px;
+}
+.col-xs-12 li {
+    list-style: none;
+}
+.bold {
+    font-weight: bold;
+    font-size: 18px;
+}
+.grey {
+    color: grey;
+    font-size: 18px;
 }
