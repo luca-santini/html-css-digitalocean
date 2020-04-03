@@ -72,6 +72,7 @@ li img {
 .brand {
     background-color: #F3F5F9;
 }
+/* new section */
 #trust {
     color: grey;
     text-transform: uppercase;
@@ -88,11 +89,10 @@ li img {
     text-decoration: none;
     cursor: pointer;
 }
-/* deploy and scale */
+/* new section */
 #deploy-and-scale {
  background-color: white;
 }
-
 .col-sm-offset-1 {
     margin-left: 0;
 }
@@ -111,7 +111,6 @@ li img {
     padding-left: 20px;
     font-size: 16px;
 }
-
 .process li:first-child {
     border-left: 2px solid blue;
 }
@@ -123,15 +122,22 @@ li img {
     color: grey;
     font-size: 18px;
 }
-
 #developers {
     background-color: #F3F5F9;
 }
 #built-for-business {
     background-color: white;
 }
-
+/* new section */
 #departures {
-    background-image: url("https://www.digitalocean.com/assets/media/homepage/data-center-map-20321538.svg");
-    margin-bottom: 0;
+    background-color: #031B4E;
+    height: 100vh;
+}
+#departures h2 {
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+}
+#departures td {
+    color: white;
 }
