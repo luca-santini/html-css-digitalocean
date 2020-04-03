@@ -123,3 +123,10 @@ li img {
     color: grey;
     font-size: 18px;
 }
+
+#developers {
+    background-color: #F3F5F9;
+}
+#built-for-business {
+    background-color: white;
+}

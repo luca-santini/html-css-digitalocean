@@ -1,0 +1,31 @@
+<h1>Welcome to the developer cloud</h1>
+<p>We make it simply to launch in the cloud and scale up as you grow - 
+    with an intuitive control panel, predictable pricing, team accounts, and more.</p>  
+
+<div class="container">
+<h2>Deploy in seconds</h2>
+<form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Full name">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Email Address">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Create a password">
+  </div>
+</form>
+
+<button type="button" class="btn btn-primary btn-lg btn-block">Create your Account</button>
+
+--------------------------------- or sign up with ------------------------------------------
+
+<button type="button" class="btn btn-default btn-lg active">Google</button> col-xs-6
+<button type="button" class="btn btn-default btn-lg active">Github</button> col-xs-6
+
+<p center>By signing up you agree to the <a href="#">Terms of Service.</a>
+
+</div>
