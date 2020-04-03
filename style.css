@@ -130,3 +130,8 @@ li img {
 #built-for-business {
     background-color: white;
 }
+
+#departures {
+    background-image: url("https://www.digitalocean.com/assets/media/homepage/data-center-map-20321538.svg");
+    margin-bottom: 0;
+}
