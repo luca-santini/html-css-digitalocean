@@ -34,7 +34,7 @@ li img {
     font-size: 40px;
     color: #fff;
 }
-.jumbotron p {
+.jumbo-content p {
     color: #fff;
     font-size: 24px;
     opacity: .8;
@@ -92,16 +92,28 @@ li img {
 #deploy-and-scale {
  background-color: white;
 }
-.col-xs-12 h2 {
-    font-size: 36px;
-    font-weight: 400;
+
+.col-sm-offset-1 {
+    margin-left: 0;
 }
-.col-xs-12 p {
-    color: grey;
+.medium {
     font-size: 20px;
+    text-align: center;
 }
-.col-xs-12 li {
+.col-xs-12 h2 {
+    font-weight: bold;
+    font-size: 36px;
+}
+.process li {
+    border-left: 2px solid grey;
     list-style: none;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    font-size: 16px;
+}
+
+.process li:first-child {
+    border-left: 2px solid blue;
 }
 .bold {
     font-weight: bold;
