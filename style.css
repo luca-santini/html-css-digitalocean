@@ -133,7 +133,6 @@ li img {
 /* new section */
 #departures {
     background-color: #031B4E;
-    height: 100vh;
 }
 #departures h2 {
     color: white;
@@ -143,15 +142,20 @@ li img {
 #departures td {
     color: white;
 }
-#development-teams {
+#rockerbox {
     background-color: #F3F5F9;
-    height: 400px;
 }
 .blockquote {
     background-color: white;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .blockquote-body {
     padding: 32px;
+}
+.blockquote-body img {
+    max-width: 100%;
 }
 .quote {
     padding-top: 20px;
@@ -159,4 +163,48 @@ li img {
 .section-title {
     padding-top: 20px;
     text-align: center;
+}
+#cta {
+    background-image: url("https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg");
+}
+#cta .btn {
+    background-color: white;
+    color: blue;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+#cta h2 {
+    margin-top: 50px;
+    color: white;
+    font-size: 36px;
+    width: 700;
+}
+footer {
+    padding-top: 30px;
+    background-color: #000000;
+}
+footer ul {
+    float: left;
+}
+footer li {
+    font-size: 20px;
+    padding-top: 10px;
+    color: grey;
+    list-style: none;
+}
+footer .col-lg-12 {
+    margin-bottom: 30px;
+}
+.first-item {
+    color: white;
+    padding-bottom: 10px;
+}
+footer .navbar-nav {
+    float: none;
+    padding-bottom: 50px;
+}
+.navbar-right li {
+    padding-right: 10px;
 }
